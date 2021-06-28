@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\art\\Desktop\\TrainStation\\TrainStation\\Airline.DAL\\TrainStation.DAL.csproj": {}
+    "C:\\Users\\art\\Documents\\GitHub\\TrainStation\\TrainStation\\Airline.DAL\\TrainStation.DAL.csproj": {}
   },
   "projects": {
-    "C:\\Users\\art\\Desktop\\TrainStation\\TrainStation\\Airline.DAL\\TrainStation.DAL.csproj": {
+    "C:\\Users\\art\\Documents\\GitHub\\TrainStation\\TrainStation\\Airline.DAL\\TrainStation.DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\art\\Desktop\\TrainStation\\TrainStation\\Airline.DAL\\TrainStation.DAL.csproj",
+        "projectUniqueName": "C:\\Users\\art\\Documents\\GitHub\\TrainStation\\TrainStation\\Airline.DAL\\TrainStation.DAL.csproj",
         "projectName": "TrainStation.DAL",
-        "projectPath": "C:\\Users\\art\\Desktop\\TrainStation\\TrainStation\\Airline.DAL\\TrainStation.DAL.csproj",
+        "projectPath": "C:\\Users\\art\\Documents\\GitHub\\TrainStation\\TrainStation\\Airline.DAL\\TrainStation.DAL.csproj",
         "packagesPath": "C:\\Users\\art\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\art\\Desktop\\TrainStation\\TrainStation\\Airline.DAL\\obj\\",
+        "outputPath": "C:\\Users\\art\\Documents\\GitHub\\TrainStation\\TrainStation\\Airline.DAL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\art\\AppData\\Roaming\\NuGet\\NuGet.Config",

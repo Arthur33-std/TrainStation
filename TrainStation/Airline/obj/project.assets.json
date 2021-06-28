@@ -8514,11 +8514,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\art\\Desktop\\TrainStation\\TrainStation\\Airline\\TrainStation.csproj",
+      "projectUniqueName": "C:\\Users\\art\\Documents\\GitHub\\TrainStation\\TrainStation\\Airline\\TrainStation.csproj",
       "projectName": "TrainStation",
-      "projectPath": "C:\\Users\\art\\Desktop\\TrainStation\\TrainStation\\Airline\\TrainStation.csproj",
+      "projectPath": "C:\\Users\\art\\Documents\\GitHub\\TrainStation\\TrainStation\\Airline\\TrainStation.csproj",
       "packagesPath": "C:\\Users\\art\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\art\\Desktop\\TrainStation\\TrainStation\\Airline\\obj\\",
+      "outputPath": "C:\\Users\\art\\Documents\\GitHub\\TrainStation\\TrainStation\\Airline\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\art\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -8535,8 +8535,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\art\\Desktop\\TrainStation\\TrainStation\\Airline.BLL\\TrainStation.BLL.csproj": {
-              "projectPath": "C:\\Users\\art\\Desktop\\TrainStation\\TrainStation\\Airline.BLL\\TrainStation.BLL.csproj"
+            "C:\\Users\\art\\Documents\\GitHub\\TrainStation\\TrainStation\\Airline.BLL\\TrainStation.BLL.csproj": {
+              "projectPath": "C:\\Users\\art\\Documents\\GitHub\\TrainStation\\TrainStation\\Airline.BLL\\TrainStation.BLL.csproj"
             }
           }
         }

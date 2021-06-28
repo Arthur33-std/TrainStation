@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nIbRcOMTFGJyuSajkV6htJnku9wdnLqRgj4SMukEZ5BrKpl5iVY1uVZXZyzATQR4LTxn/9IdgxfVHcXX+rHJgA==",
+  "dgSpecHash": "y4Px1u5shVx9pUjyNUd+g0booyGYxVpqYWYOHbLW4kx+lHhZf49rPhMykWrgbApqA7YvkmSpuL1xHm9If6VpOg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\art\\Desktop\\TrainStation\\TrainStation\\Airline\\TrainStation.csproj",
+  "projectFilePath": "C:\\Users\\art\\Documents\\GitHub\\TrainStation\\TrainStation\\Airline\\TrainStation.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\art\\.nuget\\packages\\automapper\\9.0.0\\automapper.9.0.0.nupkg.sha512",
     "C:\\Users\\art\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\7.0.0\\automapper.extensions.microsoft.dependencyinjection.7.0.0.nupkg.sha512",
