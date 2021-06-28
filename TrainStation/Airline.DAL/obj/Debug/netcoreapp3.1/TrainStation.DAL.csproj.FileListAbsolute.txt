@@ -1,0 +1,12 @@
+C:\Users\art\Desktop\Airline\Airline\Airline.DAL\bin\Debug\netcoreapp3.1\TrainStation.DAL.deps.json
+C:\Users\art\Desktop\Airline\Airline\Airline.DAL\bin\Debug\netcoreapp3.1\TrainStation.DAL.runtimeconfig.json
+C:\Users\art\Desktop\Airline\Airline\Airline.DAL\bin\Debug\netcoreapp3.1\TrainStation.DAL.runtimeconfig.dev.json
+C:\Users\art\Desktop\Airline\Airline\Airline.DAL\bin\Debug\netcoreapp3.1\TrainStation.DAL.dll
+C:\Users\art\Desktop\Airline\Airline\Airline.DAL\bin\Debug\netcoreapp3.1\TrainStation.DAL.pdb
+C:\Users\art\Desktop\Airline\Airline\Airline.DAL\obj\Debug\netcoreapp3.1\TrainStation.DAL.csprojAssemblyReference.cache
+C:\Users\art\Desktop\Airline\Airline\Airline.DAL\obj\Debug\netcoreapp3.1\TrainStation.DAL.AssemblyInfoInputs.cache
+C:\Users\art\Desktop\Airline\Airline\Airline.DAL\obj\Debug\netcoreapp3.1\TrainStation.DAL.AssemblyInfo.cs
+C:\Users\art\Desktop\Airline\Airline\Airline.DAL\obj\Debug\netcoreapp3.1\TrainStation.DAL.csproj.CoreCompileInputs.cache
+C:\Users\art\Desktop\Airline\Airline\Airline.DAL\obj\Debug\netcoreapp3.1\TrainStation.DAL.dll
+C:\Users\art\Desktop\Airline\Airline\Airline.DAL\obj\Debug\netcoreapp3.1\TrainStation.DAL.pdb
+C:\Users\art\Desktop\Airline\Airline\Airline.DAL\obj\Debug\netcoreapp3.1\TrainStation.DAL.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>TrainStation</name>
+    </assembly>
+    <members>
+        <member name="M:TrainStation.Controllers.PassageScheduleController.Delete(System.Int32)">
+            <summary>
+            Delete by Id
+            </summary>
+            <param name="Id"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

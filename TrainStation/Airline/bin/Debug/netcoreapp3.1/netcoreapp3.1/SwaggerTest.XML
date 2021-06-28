@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>TrainStation</name>
+    </assembly>
+    <members>
+        <member name="M:TrainStation.Controllers.PassageController.GetAll">
+            <summary>
+            Get all
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:TrainStation.Controllers.PassageController.GetPassageAsync(System.Int32)">
+            <summary>
+            Get by Id
+            </summary>
+            <param name="Id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TrainStation.Controllers.PassageController.Delete(System.Int32)">
+            <summary>
+            Delete by Id
+            </summary>
+            <param name="Id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TrainStation.Controllers.PassageController.Update(System.Int32,TrainStation.BLL.DTOs.PassageDTO)">
+            <summary>
+            Update by Id
+            </summary>
+            <param name="Id"></param>
+            <param name="passageDto"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TrainStation.Controllers.PassageScheduleController.Delete(System.Int32)">
+            <summary>
+            Delete by Id
+            </summary>
+            <param name="Id"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,15 @@
+C:\Users\art\Desktop\Airline\Airline\Airline.DAL\bin\Debug\net5.0\TrainStation.DAL.deps.json
+C:\Users\art\Desktop\Airline\Airline\Airline.DAL\bin\Debug\net5.0\TrainStation.DAL.runtimeconfig.json
+C:\Users\art\Desktop\Airline\Airline\Airline.DAL\bin\Debug\net5.0\TrainStation.DAL.runtimeconfig.dev.json
+C:\Users\art\Desktop\Airline\Airline\Airline.DAL\bin\Debug\net5.0\TrainStation.DAL.dll
+C:\Users\art\Desktop\Airline\Airline\Airline.DAL\bin\Debug\net5.0\ref\TrainStation.DAL.dll
+C:\Users\art\Desktop\Airline\Airline\Airline.DAL\bin\Debug\net5.0\TrainStation.DAL.pdb
+C:\Users\art\Desktop\Airline\Airline\Airline.DAL\obj\Debug\net5.0\TrainStation.DAL.csprojAssemblyReference.cache
+C:\Users\art\Desktop\Airline\Airline\Airline.DAL\obj\Debug\net5.0\TrainStation.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\art\Desktop\Airline\Airline\Airline.DAL\obj\Debug\net5.0\TrainStation.DAL.AssemblyInfoInputs.cache
+C:\Users\art\Desktop\Airline\Airline\Airline.DAL\obj\Debug\net5.0\TrainStation.DAL.AssemblyInfo.cs
+C:\Users\art\Desktop\Airline\Airline\Airline.DAL\obj\Debug\net5.0\TrainStation.DAL.csproj.CoreCompileInputs.cache
+C:\Users\art\Desktop\Airline\Airline\Airline.DAL\obj\Debug\net5.0\TrainStation.DAL.dll
+C:\Users\art\Desktop\Airline\Airline\Airline.DAL\obj\Debug\net5.0\ref\TrainStation.DAL.dll
+C:\Users\art\Desktop\Airline\Airline\Airline.DAL\obj\Debug\net5.0\TrainStation.DAL.pdb
+C:\Users\art\Desktop\Airline\Airline\Airline.DAL\obj\Debug\net5.0\TrainStation.DAL.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\art\Desktop\Airline\Airline\Airline.BLL\bin\Debug\net5.0\TrainStation.BLL.deps.json
+C:\Users\art\Desktop\Airline\Airline\Airline.BLL\bin\Debug\net5.0\TrainStation.BLL.dll
+C:\Users\art\Desktop\Airline\Airline\Airline.BLL\bin\Debug\net5.0\ref\TrainStation.BLL.dll
+C:\Users\art\Desktop\Airline\Airline\Airline.BLL\bin\Debug\net5.0\TrainStation.BLL.pdb
+C:\Users\art\Desktop\Airline\Airline\Airline.BLL\bin\Debug\net5.0\TrainStation.DAL.dll
+C:\Users\art\Desktop\Airline\Airline\Airline.BLL\bin\Debug\net5.0\TrainStation.DAL.pdb
+C:\Users\art\Desktop\Airline\Airline\Airline.BLL\obj\Debug\net5.0\TrainStation.BLL.csprojAssemblyReference.cache
+C:\Users\art\Desktop\Airline\Airline\Airline.BLL\obj\Debug\net5.0\TrainStation.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\art\Desktop\Airline\Airline\Airline.BLL\obj\Debug\net5.0\TrainStation.BLL.AssemblyInfoInputs.cache
+C:\Users\art\Desktop\Airline\Airline\Airline.BLL\obj\Debug\net5.0\TrainStation.BLL.AssemblyInfo.cs
+C:\Users\art\Desktop\Airline\Airline\Airline.BLL\obj\Debug\net5.0\TrainStation.BLL.csproj.CoreCompileInputs.cache
+C:\Users\art\Desktop\Airline\Airline\Airline.BLL\obj\Debug\net5.0\TrainStation.BLL.csproj.CopyComplete
+C:\Users\art\Desktop\Airline\Airline\Airline.BLL\obj\Debug\net5.0\TrainStation.BLL.dll
+C:\Users\art\Desktop\Airline\Airline\Airline.BLL\obj\Debug\net5.0\ref\TrainStation.BLL.dll
+C:\Users\art\Desktop\Airline\Airline\Airline.BLL\obj\Debug\net5.0\TrainStation.BLL.pdb

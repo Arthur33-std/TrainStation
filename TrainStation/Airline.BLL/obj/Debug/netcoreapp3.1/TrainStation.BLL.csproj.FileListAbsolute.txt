@@ -1,0 +1,12 @@
+C:\Users\art\Desktop\Airline\Airline\Airline.BLL\bin\Debug\netcoreapp3.1\TrainStation.BLL.deps.json
+C:\Users\art\Desktop\Airline\Airline\Airline.BLL\bin\Debug\netcoreapp3.1\TrainStation.BLL.dll
+C:\Users\art\Desktop\Airline\Airline\Airline.BLL\bin\Debug\netcoreapp3.1\TrainStation.BLL.pdb
+C:\Users\art\Desktop\Airline\Airline\Airline.BLL\bin\Debug\netcoreapp3.1\TrainStation.DAL.dll
+C:\Users\art\Desktop\Airline\Airline\Airline.BLL\bin\Debug\netcoreapp3.1\TrainStation.DAL.pdb
+C:\Users\art\Desktop\Airline\Airline\Airline.BLL\obj\Debug\netcoreapp3.1\TrainStation.BLL.csprojAssemblyReference.cache
+C:\Users\art\Desktop\Airline\Airline\Airline.BLL\obj\Debug\netcoreapp3.1\TrainStation.BLL.AssemblyInfoInputs.cache
+C:\Users\art\Desktop\Airline\Airline\Airline.BLL\obj\Debug\netcoreapp3.1\TrainStation.BLL.AssemblyInfo.cs
+C:\Users\art\Desktop\Airline\Airline\Airline.BLL\obj\Debug\netcoreapp3.1\TrainStation.BLL.csproj.CoreCompileInputs.cache
+C:\Users\art\Desktop\Airline\Airline\Airline.BLL\obj\Debug\netcoreapp3.1\TrainStation.BLL.csproj.CopyComplete
+C:\Users\art\Desktop\Airline\Airline\Airline.BLL\obj\Debug\netcoreapp3.1\TrainStation.BLL.dll
+C:\Users\art\Desktop\Airline\Airline\Airline.BLL\obj\Debug\netcoreapp3.1\TrainStation.BLL.pdb
